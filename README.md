@@ -1,2 +1,2 @@
 # IT Security Penteration and Exploitation Proj
-  This project delves into the identification and mitigation of network vulnerabilities using advanced exploitation techniques. Tools like netdiscover, hping3, and Nmap were employed to uncover weaknesses such as outdated software (Apache, Vim, LibreOffice), lack of hard disk encryption, and insecure bash history. Emphasizing the necessity of updated software and robust security protocols, the project outlines comprehensive risk analysis and mitigation strategies to bolster system security and resilience against unauthorized access and breaches.
+
