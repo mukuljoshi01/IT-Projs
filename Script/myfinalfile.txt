@@ -1,0 +1,23 @@
+ USERNAME:- mukuljoshi
+ 
+COMPUTER NAME : - ubuntu
+ 
+ Today is  20-11-2021 
+ 
+ Current time is 19: 08(min):02(seconds)
+ 
+ TOTAL NUMBER OF PROCESSES RUNNING ON THE SYSTEM ARE :- 276
+
+ 
+---------------LIST OF TOP 10 PROCESSES RUNNING AND CONSUMING MOST MEMORY--------------------- 
+ 
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         355  7.0  0.7  59636 30100 ?        S<s  19:07   0:00 /lib/systemd/systemd-journald
+root         747  3.0  0.4 270564 17196 ?        Ssl  19:08   0:00 /usr/sbin/NetworkManager --no-daemon
+root         769  6.0  0.3  38936 15100 ?        Rs   19:08   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         788  2.0  0.3 321544 13596 ?        Dsl  19:08   0:00 /usr/lib/udisks2/udisksd
+systemd+     700  4.0  0.2  23772 11948 ?        Ss   19:08   0:00 /lib/systemd/systemd-resolved
+root         834  0.0  0.2 178340 11880 ?        Ssl  19:08   0:00 /usr/sbin/cups-browsed
+root           1 23.6  0.2 167312 11164 ?        Rs   19:07   0:01 /sbin/init auto noprompt
+mukuljo+     819  0.0  0.2  27656 10424 ?        S    19:08   0:00 /usr/bin/python3 /home/mukuljoshi/sysadminreal.py
+root         713  1.0  0.2  58776 10408 ?        Ss   19:08   0:00 /usr/bin/VGAuthService
